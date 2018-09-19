@@ -10,7 +10,8 @@ int main(int argc, char*argv[])
     char last_name[] = "Taylor";
 
     printf("You are %d miles away.\n", distance);
-    
+    printf("%s\n", );
+
 
 
 
